@@ -6,6 +6,17 @@ La implementación prioriza la arquitectura de la Interfaz de Usuario (UI) y la 
 
 ---
 
+## 🚀 Despliegue (Live Demo)
+
+Puede revisar el proyecto en funcionamiento a través de los siguientes enlaces:
+
+*   **Frontend (Vercel):** [https://signal-watcher-h6uq-h3cty1d1u-angiephbs-projects.vercel.app/](https://signal-watcher-h6uq-h3cty1d1u-angiephbs-projects.vercel.app/)
+*   **Backend API (Render):** [https://signal-watcher-api-htbu.onrender.com](https://signal-watcher-api-htbu.onrender.com)
+
+> **Nota sobre el rendimiento:** Es probable que el servidor entre en estado de suspensión por inactividad. Si los datos no cargan de inmediato al abrir la aplicación, espere entre **30 y 50 segundos** para que el servicio se active automáticamente.
+
+---
+
 ## 🚀 Ejecución del Proyecto (Entorno de Desarrollo Local)
 
 El proyecto se encuentra estructurado en dos capas independientes que deben ejecutarse de forma simultánea: el Frontend (Next.js) y el Mock API (Express).
